@@ -1,0 +1,11 @@
+management:
+  endpoints:
+    web:
+      base-path: /metrics
+      exposure:
+        include: "*"
+  endpoint:
+    prometheus:
+        enabled: true
+    metrics:
+        enabled: true
