@@ -1,4 +1,8 @@
+## Autor: Kelson Wendrel Conceição Vieira
+
+
 # Teste de Avaliação de Desempenho da API PVSIM em Node.js
+
 
 ## 1. Definição do Estudo
 
